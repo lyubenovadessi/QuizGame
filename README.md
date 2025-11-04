@@ -3,13 +3,15 @@
 A fun and interactive command-line quiz built in Python.
 This project tests your knowledge through multiple-choice or true/false questions and tracks your score as you play.
 
-# ✨ Features
-  - Interactive question-and-answer gameplay
-  - Automatically loads questions from external data (quiz_data.py)
-  - Keeps track of your score throughout the quiz
-  - Provides instant feedback after each question
-  - Displays a custom ASCII logo banner (from quiz_logo.py)
-  - Structured using Object-Oriented Programming (OOP) principles
+# ✨ Features - improved
+- 💬 Live question feed — questions are fetched in real time from an online API - Open Trivia Database
+- 🧩 True/False interface — intuitive and easy to use
+- 💯 Live scoring system — see your score update after every answer
+- 🟩🟥 Instant feedback — green for correct answers, red for incorrect
+- 🚀 Auto-progress — automatically loads the next question
+- 🏁 End screen — shows your final score and stops the quiz gracefully
+- 🎨 Clean and modern Tkinter UI
+- ⚙️ Structured using Object-Oriented Programming (OOP) principles
 
 # ⚙️ How to Run
 1. Clone or download this repository
@@ -32,8 +34,8 @@ This project tests your knowledge through multiple-choice or true/false question
 - Separation of logic across multiple modules
 
 # 🧰 Possible Improvements
-- Add categories and difficulty levels
-- Randomize question order
-- Load questions from an API (like Open Trivia DB)
-- Add multiple-choice options
-- Display performance summary at the end
+- ✅ Add categories and difficulty levels - easy to be customized via data.py -> parameters
+- ✅ Randomize question order
+- ✅ Load questions from an API (like Open Trivia DB)
+- ✅ Add multiple-choice options - easy to be customized via data.py -> parameters
+- ✅ Display performance summary at the end
