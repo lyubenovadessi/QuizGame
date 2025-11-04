@@ -1,15 +1,14 @@
-# 🧠 Quiz Game
-
+# 🧠 Quiz Game (REST API)
 A fun and interactive command-line quiz built in Python.
 This project tests your knowledge through multiple-choice or true/false questions and tracks your score as you play.
 
 # ✨ Features - improved
-- 💬 Live question feed — questions are fetched in real time from an online API - Open Trivia Database
-- 🧩 True/False interface — intuitive and easy to use
-- 💯 Live scoring system — see your score update after every answer
-- 🟩🟥 Instant feedback — green for correct answers, red for incorrect
-- 🚀 Auto-progress — automatically loads the next question
-- 🏁 End screen — shows your final score and stops the quiz gracefully
+- 💬 Live question feed - questions are fetched in real time from an online API - Open Trivia Database
+- 🧩 True/False interface - intuitive and easy to use
+- 💯 Live scoring system - see your score update after every answer
+- 🟩🟥 Instant feedback - green for correct answers, red for incorrect
+- 🚀 Auto-progress - automatically loads the next question
+- 🏁 End screen - shows your final score and stops the quiz gracefully
 - 🎨 Clean and modern Tkinter UI
 - ⚙️ Structured using Object-Oriented Programming (OOP) principles
 
